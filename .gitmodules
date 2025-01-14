@@ -1,0 +1,5 @@
+
+[submodule "physcraft"]
+    path = physcraft
+    url = https://github.com/deep0303/PhyCraft-Prod.git>
+
